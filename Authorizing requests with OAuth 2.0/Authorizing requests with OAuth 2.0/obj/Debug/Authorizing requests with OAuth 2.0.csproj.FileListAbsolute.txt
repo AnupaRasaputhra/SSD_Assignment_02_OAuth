@@ -1,0 +1,20 @@
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.dll.config
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.dll
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.pdb
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Facebook.dll
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Newtonsoft.Json.dll
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Facebook.xml
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Newtonsoft.Json.xml
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.dll
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.pdb
+D:\Academic\4th year\2nd_Sem\SSD\Assignments\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.csprojResolveAssemblyReference.cache
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.dll.config
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.dll
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Authorizing requests with OAuth 2.0.pdb
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Facebook.dll
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Newtonsoft.Json.dll
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Facebook.xml
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\bin\Newtonsoft.Json.xml
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.csproj.CopyComplete
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.dll
+C:\Users\anurlk\Desktop\SSD Assignment_02\Anji\Assignment2\Authorizing-requests-with-OAuth-2.0\Authorizing requests with OAuth 2.0\Authorizing requests with OAuth 2.0\obj\Debug\Authorizing requests with OAuth 2.0.pdb
